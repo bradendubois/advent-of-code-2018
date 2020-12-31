@@ -1,8 +1,7 @@
-Politely rate-limitting to 1 request every 10 seconds...
-
-0 / 251 / 252 / 253 / 254 / 255 / 256 / 257 / 258 / 259 / 2510 / 2511 / 2512 / 2513 / 2514 / 2515 / 2516 / 2517 / 2518 / 2519 / 2520 / 2521 / 2522 / 2523 / 2524 / 25
 # advent-of-code-2018
+
 My solutions to 2018's [Advent of Code](https://advent-of-code.com) problems.
+
 | Day | Puzzle | Solution Directory |
 |:-:|:-:|:-:|
 | 1 | [--- Day 1: Chronal Calibration ---](https://adventofcode.com/2018/day/1) | [day1](day1) |
